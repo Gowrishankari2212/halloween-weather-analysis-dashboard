@@ -77,7 +77,7 @@ A comparison of rainfall across different days of the week.
 - **Dashboard Design**
 
 
-<img width="1627" height="812" alt="image" src="https://github.com/user-attachments/assets/a27e8045-cb60-4d55-b7e5-cdaf307520ee" />
+
 
 ## 📂 Repository Contents
 
